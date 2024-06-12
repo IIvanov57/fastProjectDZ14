@@ -27,11 +27,23 @@
 - Проверка раздела "Выбирайте лучшее" -> меню "Крупному бизнесу"
 - Проверка раздела "Выбирайте лучшее" -> меню "Малому бизнесу"
 
-### <img src="src/images/icon/Jenkins.svg" width="40" height="40" /> Сборка в Jenkins
+### Сборка в Jenkins
+
+---
 
 <img src="src/images/icon/job_1.png" width="950" />
 
+### Allure Report
+
 ---
+#### *Основная страница отчёта*
+
+<img src="src/images/icon/allure_report.png" width="950" />
+
+#### *Тест-кейсы*
+
+<img src="src/images/icon/allure_reoirt_2.png" width="950" />
+
 
 
 
