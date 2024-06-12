@@ -27,7 +27,7 @@
 - Проверка раздела "Выбирайте лучшее" -> меню "Крупному бизнесу"
 - Проверка раздела "Выбирайте лучшее" -> меню "Малому бизнесу"
 
-### Сборка в Jenkins
+### <img src="src/images/icon/Jenkins.svg" width="40" height="40" /> Сборка в Jenkins
 
 <img src="src/images/icon/job_1.png" width="950" />
 
