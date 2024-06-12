@@ -29,7 +29,7 @@
 
 ### —борка в Jenkins
 
-<img src="src/images/icon/job_1.png" width="1885" height="200" />
+<img src="src/images/icon/job_1.png" width="400" height="200" />
 
 ---
 
