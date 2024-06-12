@@ -15,6 +15,9 @@
 ### Технологии и инструменты
 
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+<img src="src/images/icon/Java.svg" width="40" height="40" /> <img src="src/images/icon/Jenkins.svg" width="40" height="40" /> <img src="src/images/icon/Intelij_IDEA.svg" width="40" height="40" /> <img src="src/images/icon/Allure.svg" width="40" height="40" /> <img src="src/images/icon/Gradle.svg" width="40" height="40" /> <img src="src/images/icon/Github.svg" width="40" height="40" /> <img src="src/images/icon/JUnit5.svg" width="40" height="40" /> <img src="src/images/icon/Selenide.svg" width="40" height="40" /> <img src="src/images/icon/Selenoid.svg" width="40" height="40" /> <img src="src/images/icon/Telegram.svg" width="40" height="40" />
+
+
+
 
           
