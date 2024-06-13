@@ -9,6 +9,9 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+import java.util.Map;
 
 import static com.codeborne.selenide.Configuration.browserCapabilities;
 
@@ -23,6 +26,12 @@ public class TestBase {
         options.addArguments("incognito");
         browserCapabilities.setCapability(ChromeOptions.CAPABILITY, options);
         Configuration.remote = "https://user1:1234@" + System.getProperty("remote", "localhost") + "/wd/hub";
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability("selenoid:options", Map.<String, Object>of(
+                "enableVNC", true,
+                "enableVideo", true
+        ));
+        Configuration.browserCapabilities = capabilities;
     }
     @BeforeEach
     void beforeEach() {
