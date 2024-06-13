@@ -20,6 +20,7 @@ public class TestBase {
     @BeforeAll
     static void beforeAll(){
         Configuration.pageLoadStrategy = "eager";
+        Configuration.browserSize = "1900x1200";
         Configuration.timeout = 10000;
         Configuration.browser = "chrome";
         ChromeOptions options = new ChromeOptions();
