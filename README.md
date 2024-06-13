@@ -47,7 +47,7 @@
 ### Уведомления в Telegram
 
 ---
-<img src="src/images/icon/tg_bot.png" width="950" />
+<img src="src/images/icon/tg_bot.png" width="650" />
 
 ### Видео примера запуска тестов в Selenoid
 
