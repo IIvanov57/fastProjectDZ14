@@ -44,6 +44,14 @@
 
 <img src="src/images/icon/allure_reoirt_2.png" width="950" />
 
+### Уведомления в Telegram
+
+---
+<img src="src/images/icon/tg_bot.png" width="950" />
+
+### Видео примера запуска тестов в Selenoid
+
+---
 
 
 
